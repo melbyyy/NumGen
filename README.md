@@ -1,4 +1,5 @@
 
+
 # How to use NumGen ➕!
 
 ## Environment Setup
@@ -42,3 +43,5 @@ It will appear in your downloads as .msix, you m ay double click once download i
 <img width="1180" height="492" alt="python_manager_prompt_3" src="https://github.com/user-attachments/assets/afcfbea8-4b76-44ac-9c9c-8b0b48d47395" />
 
 #### For the prompt "View online help?" you may type N/n and press enter.
+
+<img width="817" height="691" alt="python_manager_prompt_4" src="https://github.com/user-attachments/assets/da4fa17d-afd7-4889-9ddb-1e1e71bdefc4" />
