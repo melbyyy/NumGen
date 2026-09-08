@@ -7,8 +7,7 @@
 To use NumGen ➕ we need to install Python 🐍! Let's [download](https://www.python.org/) Python from [python.org!](https://www.python.org/).<br>
 If your are a windows user, click the button encircled in red!
 
-<img width="1496" height="762" alt="insatalling_in_windows" src="https://github.com/user-attachments/assets/ac01a42f-1669-40bd-99ec-9ec98e4a3edf" />
-[![installing on Windows](./images/installing_in_windows.png)](https://www.python.org/)
+[![installing on Windows](./images/insatalling_in_windows.png)](https://www.python.org/)
 
 If you are a macOS user, click the button encircled in red!
 
