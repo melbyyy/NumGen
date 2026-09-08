@@ -11,4 +11,5 @@ If you are a macOS user, click the button encircled in red!
 
 [![installing on Windows](./images/installing_on_macOS.png)](https://www.python.org/)
 
-To check if python is installed write the following command on your device terminal.
+The latest install now requires to download the **Python Install Manager 🐍** or **PyManager 🐍**<br>
+It will look something like this
