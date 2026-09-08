@@ -1,6 +1,6 @@
 # Welcome! 👋🏻
 
-Welcome! The purpose of this repository is to document the progress of NumGen and to serve as my first ever project uploaded!
+Welcome! The purpose of this repository is to document the progress of my first ever Python project, NumGen ➕! 
 
 
 <h2>📌What is NumGen?</h2>
