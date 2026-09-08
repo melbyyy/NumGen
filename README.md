@@ -5,12 +5,12 @@ Welcome! The purpose of this repository is to document the progress of my first 
 
 <h2>📌What is NumGen?</h2>
 
+<img width="200" height="200" alt="addition symbol" src="https://github.com/user-attachments/assets/1baefab6-0faa-4e6a-9078-ad0699a6aa4f" />
+
 NumGen is a random number generator made in Python for the purpose of helping students, teachers, or anyone in general to generate
 random numbers at a much faster and more efficient way so that they can practice mental calculation in a more smoother way.
 
 <h2>❓What is the problem?</h2>
-
-<img width="581" height="466" alt="addition symbol" src="https://github.com/user-attachments/assets/1baefab6-0faa-4e6a-9078-ad0699a6aa4f" />
 
 While looking at some addition worksheets, I realized a slight problem, what happens if my classmates and I finish all the worksheets
 that we compiled and organized?
