@@ -10,7 +10,7 @@ random numbers at a much faster and more efficient way so that they can practice
 
 <h2>❓What is the problem?</h2>
 
-![Hello](/images/addition symbol.png) 
+[![Logo](./images/addition symbol.png)]
 
 While looking at some addition worksheets, I realized a slight problem, what happens if my classmates and I finish all the worksheets
 that we compiled and organized?
