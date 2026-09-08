@@ -16,3 +16,4 @@ If you are a macOS user, click the button boxed in red!
 The latest install now requires to download the **Python Install Manager 🐍** or **PyManager 🐍**<br>
 It will appear in your downloads, its file type is .msix: <br>
 
+<img width="396" height="125" alt="python_manager_installed" src="https://github.com/user-attachments/assets/2d974fd0-5fce-4956-bdb2-c530f43f8fca" />
