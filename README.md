@@ -19,3 +19,4 @@ It will appear in your downloads as .msix, you m ay double click once download i
 <img width="396" height="125" alt="python_manager_installed" src="https://github.com/user-attachments/assets/2d974fd0-5fce-4956-bdb2-c530f43f8fca" />
 
 <br>
+A pop up will appear (an installer) and will
