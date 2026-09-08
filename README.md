@@ -5,7 +5,7 @@ Welcome! The purpose of this repository is to document the progress of my first 
 
 <h2>📌What is NumGen?</h2>
 
-<img width="342" height="724" alt="addition symbol" src="https://github.com/user-attachments/assets/1baefab6-0faa-4e6a-9078-ad0699a6aa4f" />
+<img width="337" height="270" alt="addition symbol" src="https://github.com/user-attachments/assets/1baefab6-0faa-4e6a-9078-ad0699a6aa4f" />
 
 NumGen is a random number generator made in Python for the purpose of helping students, teachers, or anyone in general to generate
 random numbers at a much faster and more efficient way so that they can practice mental calculation in a more smoother way.
