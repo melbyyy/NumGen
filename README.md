@@ -11,6 +11,8 @@ random numbers at a much faster and more efficient way so that they can practice
 <h2>❓What is the problem?</h2>
 
 While looking at some addition worksheets, I realized a slight problem, what happens if my classmates and I finish all the worksheets
-that we compiled and organized? I realized that we would have to go online and go through the process of downloading, compiling, and organizing
+that we compiled and organized?
+
+I realized that we would have to go online and go through the process of downloading, compiling, and organizing
 in separate files, which would be time consuming!
 
