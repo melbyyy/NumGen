@@ -45,3 +45,7 @@ It will appear in your downloads as .msix, you m ay double click once download i
 #### For the prompt "View online help?" you may type N/n and press enter.
 
 <img width="817" height="691" alt="python_manager_prompt_4" src="https://github.com/user-attachments/assets/da4fa17d-afd7-4889-9ddb-1e1e71bdefc4" />
+
+
+## How do I know if Python 🐍 is installed on my device?
+Press the Windows key logo and R at the same time, this will run the run dialog box, type **cmd** in the field.
