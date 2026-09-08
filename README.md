@@ -49,3 +49,9 @@ It will appear in your downloads as .msix, you m ay double click once download i
 
 ## How do I know if Python 🐍 is installed on my device?
 Press the Windows key logo and R at the same time, this will run the run dialog box, type **cmd** in the field.
+<img width="452" height="263" alt="run dialog box" src="https://github.com/user-attachments/assets/399c4cce-8142-4191-b55f-4b36047a528d" />
+
+Next type ***python --version*** then press enter. <br>
+This will show the Python 🐍 version installed on your device
+<img width="626" height="177" alt="command_prompt_python_version_check" src="https://github.com/user-attachments/assets/3573cb52-5008-494c-bbf1-4df60615ad00" />
+
