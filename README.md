@@ -35,8 +35,10 @@ It will appear in your downloads as .msix, you m ay double click once download i
 <br>
 
 <img width="977" height="247" alt="python_manager_prompt_2" src="https://github.com/user-attachments/assets/e64aa8e1-07a9-4e69-abf2-c0e246b1feb7" />
+
 #### Python 🐍 is now installed!
 
 
 <img width="1180" height="492" alt="python_manager_prompt_3" src="https://github.com/user-attachments/assets/afcfbea8-4b76-44ac-9c9c-8b0b48d47395" />
+
 #### For the prompt "View online help?" you may type N/n and press enter.
