@@ -32,6 +32,7 @@ It will appear in your downloads as .msix, you m ay double click once download i
 
 #### You may enter Y/y again.
 
+<br>
 
 <img width="977" height="247" alt="python_manager_prompt_2" src="https://github.com/user-attachments/assets/e64aa8e1-07a9-4e69-abf2-c0e246b1feb7" />
 #### Python 🐍 is now installed!
