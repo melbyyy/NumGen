@@ -37,7 +37,7 @@ def start():
         print("=== Welcome to the Random Number Generator Program 0/ ===")
 
         print("\n-----------------------------")
-        print("v 1.1 Beta")
+        print("v 1.2 Beta")
         print("              .               ")
         print("            +@@@#             ")
         print("            +@@@#             ")
