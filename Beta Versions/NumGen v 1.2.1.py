@@ -26,6 +26,43 @@ assigned_operation = "+"
 
 def start():
 
+    def help():
+        #These are the list of commands for starting page!
+
+        global choices_start, choices_settings, choices_about, choices_help, choices_exit
+
+        while True:
+            cls()
+            print("=== Help ===")
+            print("\nHere are the sets of commands for this page!")
+
+            print("\n[ Start ]")
+            print()
+            print(*choices_start, sep = '|')
+            print("\n")
+
+            print("[ Settings ]")
+            print()
+            print(*choices_settings, sep = '|')
+            print("\n")
+
+            print("[ About ]")
+            print()
+            print(*choices_about, sep = '|')
+            print("\n")
+
+            print("[ Help ]")
+            print()
+            print(*choices_help, sep = '|')
+            print("\n")
+
+            print("[ Exit ]")
+            print()
+            print(*choices_exit, sep = '|')
+            input("\n: ")
+
+            start()
+
     global choices_start, choices_settings, choices_about, choices_help, choices_exit
 
     choices_start = ("Start", "start", "run", "1")
@@ -40,7 +77,7 @@ def start():
         print("=== Welcome to the Random Number Generator Program 0/ ===")
 
         print("\n-----------------------------")
-        print("v 1.1 Beta")
+        print("v 1.2.1 Beta")
         print("              .               ")
         print("            +@@@#             ")
         print("            +@@@#             ")
@@ -88,10 +125,10 @@ def start():
             sys.exit()
         elif user_input == "":
             print("\nInvalid! Please select an option.")
-            input("\n: ")
+            input("\n")
         else:
             print("\nInvalid! Please select an option.")
-            input("\n: ")
+            input("\n")
 
 # Settings to change randrange
 
@@ -196,49 +233,12 @@ def settings():
             change_int()
         elif user_input == "":
             print("\nInvalid! Please select an option.")
-            input("\n: ")
+            input("\n")
         else:
             print("\nInvalid! Please select an option.")
-            input("\n: ")
+            input("\n")
 
-def help():
-    #These are the list of commands for starting page!
-
-    global choices_start, choices_settings, choices_about, choices_help, choices_exit
-
-    while True:
-        cls()
-        print("=== Help ===")
-        print("\nHere are the sets of commands for this page!")
-
-        print("\n[ Start ]")
-        print()
-        print(*choices_start, sep = '|')
-        print("\n")
-
-        print("[ Settings ]")
-        print()
-        print(*choices_settings, sep = '|')
-        print("\n")
-
-        print("[ About ]")
-        print()
-        print(*choices_about, sep = '|')
-        print("\n")
-
-        print("[ Help ]")
-        print()
-        print(*choices_help, sep = '|')
-        print("\n")
-
-        print("[ Exit ]")
-        print()
-        print(*choices_exit, sep = '|')
-        input("\n: ")
-
-        start()
         
-
 def main_menu():
 
     global assigned_operation
@@ -284,7 +284,7 @@ def main_menu():
             else:
                 cls()
                 print("Invalid! Please select an option.")
-                input("\n: ")
+                input("\n")
 
     def subtraction():
             while True:
@@ -324,7 +324,7 @@ def main_menu():
                 else:
                     cls()
                     print("Invalid! Please select an option.")
-                    input("\n: ")
+                    input("\n")
 
     def multiplication():
             while True:
@@ -364,7 +364,7 @@ def main_menu():
                 else:
                     cls()
                     print("Invalid! Please select an option.")
-                    input("\n: ")
+                    input("\n")
 
     def division():
         while True:
@@ -409,17 +409,55 @@ def main_menu():
             else:
                 cls()
                 print("Invalid! Please select an option.")
-                input("\n: ")
+                input("\n")
 
+    
+    
     def main_menu_screen():
 
-        global assigned_operation, addition_choices, subtraction_choices, multiplication_choices, add_subtract_multiply_choices
+        def help():
+            #These are the list of commands for starting page!
+
+            global addition_choices, subtraction_choices, multiplication_choices, division_choices
+
+            while True:
+                cls()
+                print("=== Help ===")
+                print("\nHere are the sets of commands for this page!")
+
+                print("\n[ Addition ]")
+                print()
+                print(*addition_choices, sep = '|')
+                print("\n")
+
+                print("[ Subtraction ]")
+                print()
+                print(*subtraction_choices, sep = '|')
+                print("\n")
+
+                print("[ Multiplication ]")
+                print()
+                print(*multiplication_choices, sep = '|')
+                print("\n")
+
+                print("[ Division ]")
+                print()
+                print(*division_choices, sep = '|')
+                print("\n")
+
+                input("\n: ")
+
+                main_menu_screen()
+
+        global addition_choices, subtraction_choices, multiplication_choices, division_choices
+        global choices_help
 
         addition_choices = ("Addition", "Add", "addition", "add", "+")
         subtraction_choices = ("Subtraction", "Subtract", "subtraction", "subtract", "Minus", "minus", "-")
         multiplication_choices = ("Multiplication", "multiplication", "Multiply", "multiply", "*")
         division_choices = ("Division", "division", "Divide", "divide", "/")
 
+        
         choices_back = ("Back", "back", "0")
 
         options_bank = ('Addition', 'Subtraction', 'Multiplication', 'Division')
@@ -435,6 +473,8 @@ def main_menu():
 
             print("\n------------------")
 
+            print()
+            print("- Help")
             print("- Back")
 
             user_input = input("\n: ")
@@ -447,11 +487,13 @@ def main_menu():
                 multiplication()
             elif user_input in division_choices:
                 division()
+            elif user_input in choices_help:
+                help()
             elif user_input in choices_back:
                 start()
             else:
                 print("Invalid! Please select an option.")
-                input("\n: ")
+                input("\n")
 
     main_menu_screen()
 
