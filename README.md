@@ -7,16 +7,16 @@ Welcome! The purpose of this repository is to document the progress of my first 
 
 ```
               .               
-            +@@@#             
-            +@@@#             
-            +@@@#             
-     :*#####%@@@@#####*-       
-    :@@@@@@@@@@@@@@@@@@@=     
-     .******%@@@%******:      
-            +@@@#             
-            +@@@#             
-            +@@@#             
-              .               
+            +@@@#             [---------------------------------------]
+            +@@@#               Project Name: NumGen
+            +@@@#               Date project started: 30 / 8 / 2026
+     :*#####%@@@@#####*-        Current State: Beta Releases 
+    :@@@@@@@@@@@@@@@@@@@=      
+     .******%@@@%******:        Note from Author:
+            +@@@#                 Honestly a fun time making this,
+            +@@@#               especially helps in starting project
+            +@@@#               based learning for my coding education!
+              .               [---------------------------------------]
 ```
         
 <br>
