@@ -5,7 +5,8 @@ Welcome! The purpose of this repository is to document the progress of my first 
 
 <h2>📌What is NumGen?</h2>
 
-              .               **Project Name:** NumGen
+'''
+              .               
             +@@@#             
             +@@@#             
             +@@@#             
@@ -16,7 +17,7 @@ Welcome! The purpose of this repository is to document the progress of my first 
             +@@@#             
             +@@@#             
               .               
-
+'''
         
 <br>
 NumGen is a random number generator made in Python for the purpose of helping students, teachers, or anyone in general to generate
