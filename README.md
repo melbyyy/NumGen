@@ -57,3 +57,8 @@ It will appear in your downloads as .msix, you m ay double click once download i
 ### This will show the Python 🐍 version installed on your device
 <img width="626" height="177" alt="command_prompt_python_version_check" src="https://github.com/user-attachments/assets/3573cb52-5008-494c-bbf1-4df60615ad00" />
 
+
+## Installing NumGen!
+
+Install the latest version of NumGen by going to the Beta Releases folder
+
