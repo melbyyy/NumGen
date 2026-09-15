@@ -1,6 +1,6 @@
 
 
-# How to use NumGen ➕!
+# How to download NumGen ➕!
 
 ## Environment Setup
 
