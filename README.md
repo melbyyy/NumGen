@@ -4,7 +4,7 @@
 
 ## Environment Setup
 
-### Installing Python
+### Installing Python 🐍
 
 ### To use NumGen ➕ we need to install Python 🐍! Let's [download](https://www.python.org/) Python from [python.org!](https://www.python.org/).<br>
 ### If your are a windows user, click the button encircled in red!
