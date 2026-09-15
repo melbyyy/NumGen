@@ -5,11 +5,11 @@ Welcome! The purpose of this repository is to document the progress of my first 
 
 <h2>📌What is NumGen?</h2>
 
-              .               
+              .               NumGen
             +@@@#             
             +@@@#             
             +@@@#             
-     :*#####%@@@@#####*-      
+     :*#####%@@@@#####*-       
     :@@@@@@@@@@@@@@@@@@@=     
      .******%@@@%******:      
             +@@@#             
