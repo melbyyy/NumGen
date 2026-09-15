@@ -57,8 +57,21 @@ It will appear in your downloads as .msix, you m ay double click once download i
 ### This will show the Python 🐍 version installed on your device
 <img width="626" height="177" alt="command_prompt_python_version_check" src="https://github.com/user-attachments/assets/3573cb52-5008-494c-bbf1-4df60615ad00" />
 
+<br>
 
-## Installing NumGen!
+## 🛠️ Installing NumGen!
 
-Install the latest version of NumGen by going to the Beta Releases folder
+Install the latest version of NumGen by going to the Beta Releases folder.
+<img width="1657" height="740" alt="beta releases" src="https://github.com/user-attachments/assets/e8e79944-9c9b-42ed-b4a1-3b9f1ab930e8" />
+
+<br>
+
+Then click on the latest available version of NumGen.
+<img width="1397" height="692" alt="inside beta releases folder" src="https://github.com/user-attachments/assets/11dcbeb5-47ce-44c0-8230-d501759a2516" />
+
+You will be previewing the file, just click the tiny download button title "Download Raw File", this will download the program.
+<img width="1387" height="772" alt="download raw file" src="https://github.com/user-attachments/assets/57bef37b-efb9-4346-8ae0-d7363f351a78" />
+
+Once downloaded just double click and enjoy using NumGen! 🎉
+<img width="391" height="125" alt="recent version download" src="https://github.com/user-attachments/assets/650edb2f-3b34-4093-82f3-690da66f6dcf" />
 
