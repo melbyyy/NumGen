@@ -33,9 +33,11 @@ in separate files, which would be time consuming!
 
 <h2>🤔Significance of this Project</h2>
 
-  Project NumGens' significance is to help students and teachers, whether it be providing students with many basic arithmetic questions to solve, or providing kinder or elementary teachers a tool that can make worksheet making
+Project NumGens' significance is to help students and teachers, whether it be providing students with many basic arithmetic questions to solve, or providing kinder or elementary teachers a tool that can make worksheet making
 much easier.
 
-  For students, this may help in further honing and sharpening their mental calculation skills, whether they are still sharpening it in upper elementary, or revisiting it in high school.
+For students, this program may help in further honing and sharpening their mental calculation skills, whether they are still sharpening it in upper elementary, or revisiting it in high school.
 
-For teachers
+For teachers, this program may help in making basic operation worksheets much more faster and efficient, lessening the time to generate or think of numbers which can lessen the workload on teachers.
+
+[ More to add... ]
