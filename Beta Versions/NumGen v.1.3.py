@@ -82,7 +82,7 @@ def start():
         print("=== NumGen < + - / * > ===")
 
         print("\n-----------------------------")
-        print("v 1.2.5 Beta")
+        print("v 1.3 Beta")
         print("              .               ")
         print("            +@@@#             ")
         print("            +@@@#             ")
