@@ -48,10 +48,3 @@ For teachers, this program may help in making basic operation worksheets much mo
 So NumGen ( + ) essentially is a program that can help aid in generating basic arithmetic questions in their respective formats, whether it be one digit, two, three, or more, NumGen ( + ) can help the task be more efficient and optimal. 
 
 One can either choose to generate questions on their own and take time solving questions, generate a set amount of questions and answer at their own pace, or for a challenge can use a timer to time themselves and see their progress.
-
-<h2> Credits 👀 </h2>
-Thanks to these peeps for testing and giving feedback on NumGen!
-
-*Testers
-  - CxrrotGod
-  - KazuhaxAyaka
