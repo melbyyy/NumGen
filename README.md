@@ -51,5 +51,7 @@ One can either choose to generate questions on their own and take time solving q
 
 <h2> Credits 👀 </h2>
 Thanks to these peeps for testing and giving feedback on NumGen!
-- CxrrotGod
-- KazuhaxAyaka
+
+*Testers
+  - CxrrotGod
+  - KazuhaxAyaka
