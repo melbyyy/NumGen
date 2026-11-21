@@ -1,7 +1,7 @@
 # Welcome! 👋🏻
 
 Welcome! The purpose of this repository is to document the progress of my first ever Python project, ***NumGen ➕***! 
-- melbyyy
+-melbyyy
 
 <h2>📌What is NumGen?</h2>
 
