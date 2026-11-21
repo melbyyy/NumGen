@@ -34,7 +34,7 @@ that we compiled and organized?
 I realized that we would have to go online and go through the process of downloading, compiling, and organizing
 in separate files, which would be time consuming!
 
-<h2>🤔Significance of this Project</h2>
+<h2>🤔 Significance of this Project</h2>
 
 Project NumGens' significance is to help students and teachers, whether it be providing students with many basic arithmetic questions to solve, or providing kinder or elementary teachers a tool that can make worksheet making
 much easier.
@@ -43,4 +43,8 @@ For students, this program may help in further honing and sharpening their menta
 
 For teachers, this program may help in making basic operation worksheets much more faster and efficient, lessening the time to generate or think of numbers which can lessen the workload on teachers.
 
-[ More to add... ]
+<h2>💻 What do I use NumGen ( + ) for?</h2>
+
+So NumGen ( + ) essentially is a program that can help aid in generating basic arithmetic questions in their respective formats, whether it be one digit, two, three, or more, NumGen ( + ) can help the task be more efficient and optimal. One can either choose to generate questions on their own and take time solving questions, generate a set amount of questions and answer at their own pace, or for a challenge can use a timer to time themselves and see their progress.
+
+
