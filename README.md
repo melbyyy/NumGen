@@ -12,7 +12,7 @@ Welcome! The purpose of this repository is to document the progress of my first 
             +@@@#             [---------------------------------------]
             +@@@#               Project Name: NumGen
             +@@@#               Date project started: 30 / 8 / 2026
-     :*#####%@@@@#####*-        Current State: Beta Releases 
+     :*#####%@@@@#####*-        Current State: Testing
     :@@@@@@@@@@@@@@@@@@@=      
      .******%@@@%******:        Note from Author:
             +@@@#                 Honestly a fun time making this,
